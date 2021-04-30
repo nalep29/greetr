@@ -1,0 +1,9 @@
+{
+    "name": "adrien/greetr",
+    "autoload": {
+        "psr-4": {
+            "Essais\\Greetr\\": "src/"
+        }
+    },
+    "require": {}
+}
