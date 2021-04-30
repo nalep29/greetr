@@ -1,8 +1,9 @@
 {
-    "name": "adrien/greetr",
+    "name": "nalep29/greetr",
+    "minimum-stability" : "dev",
     "autoload": {
         "psr-4": {
-            "Essais\\Greetr\\": "src/"
+            "Nalep29\\Greetr\\": "src/"
         }
     },
     "require": {}

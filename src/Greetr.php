@@ -1,6 +1,6 @@
 <?php
 
-namespace Essais\Greetr;
+namespace Nalep29\Greetr;
 
 class Greetr
 {
